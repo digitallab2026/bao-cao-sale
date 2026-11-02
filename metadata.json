@@ -1,0 +1,8 @@
+{
+  "name": "Báo cáo đại lý Sơn Thăng Long",
+  "description": "Báo cáo theo dõi hoạt động bán hàng và chăm sóc đại lý Sơn Thăng Long.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
